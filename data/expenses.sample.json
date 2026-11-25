@@ -1,0 +1,2792 @@
+[
+  {
+    "id": "sample-273",
+    "title": "Street food",
+    "amount": 13.13,
+    "earned": null,
+    "date": "2026-04-20",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-274",
+    "title": "Scooter rental",
+    "amount": 4.95,
+    "earned": null,
+    "date": "2026-04-20",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-275",
+    "title": "Airbnb",
+    "amount": 30.88,
+    "earned": null,
+    "date": "2026-04-20",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-269",
+    "title": "Dinner out",
+    "amount": 6.93,
+    "earned": null,
+    "date": "2026-04-19",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-270",
+    "title": "Smoothie",
+    "amount": 17.92,
+    "earned": null,
+    "date": "2026-04-19",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-271",
+    "title": "Volcano hike",
+    "amount": 46.37,
+    "earned": null,
+    "date": "2026-04-19",
+    "category": "Activities",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-272",
+    "title": "Streaming",
+    "amount": 9.44,
+    "earned": null,
+    "date": "2026-04-19",
+    "category": "Subscriptions",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-266",
+    "title": "Street food",
+    "amount": 14.72,
+    "earned": null,
+    "date": "2026-04-18",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-267",
+    "title": "Street food",
+    "amount": 21.29,
+    "earned": null,
+    "date": "2026-04-18",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-268",
+    "title": "Airbnb",
+    "amount": 26.35,
+    "earned": null,
+    "date": "2026-04-18",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-263",
+    "title": "Street food",
+    "amount": 8.29,
+    "earned": null,
+    "date": "2026-04-17",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-264",
+    "title": "Coffee",
+    "amount": 9.86,
+    "earned": null,
+    "date": "2026-04-17",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-265",
+    "title": "Hostel",
+    "amount": 17.03,
+    "earned": null,
+    "date": "2026-04-17",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-260",
+    "title": "Smoothie",
+    "amount": 17.56,
+    "earned": null,
+    "date": "2026-04-16",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-261",
+    "title": "Airbnb",
+    "amount": 22.69,
+    "earned": null,
+    "date": "2026-04-16",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-262",
+    "title": "Spanish class",
+    "amount": 63.33,
+    "earned": null,
+    "date": "2026-04-16",
+    "category": "Activities",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-259",
+    "title": "Dinner out",
+    "amount": 11.74,
+    "earned": null,
+    "date": "2026-04-15",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-255",
+    "title": "Coffee",
+    "amount": 7.42,
+    "earned": null,
+    "date": "2026-04-14",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-256",
+    "title": "Street food",
+    "amount": 22.49,
+    "earned": null,
+    "date": "2026-04-14",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-257",
+    "title": "Scooter rental",
+    "amount": 4.55,
+    "earned": null,
+    "date": "2026-04-14",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-258",
+    "title": "Airbnb",
+    "amount": 42.56,
+    "earned": null,
+    "date": "2026-04-14",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-254",
+    "title": "Coffee",
+    "amount": 10.25,
+    "earned": null,
+    "date": "2026-04-13",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-250",
+    "title": "Smoothie",
+    "amount": 11.38,
+    "earned": null,
+    "date": "2026-04-12",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-251",
+    "title": "Dinner out",
+    "amount": 9.16,
+    "earned": null,
+    "date": "2026-04-12",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-252",
+    "title": "Taxi",
+    "amount": 17.75,
+    "earned": null,
+    "date": "2026-04-12",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-253",
+    "title": "Guesthouse",
+    "amount": 33.99,
+    "earned": null,
+    "date": "2026-04-12",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-248",
+    "title": "Street food",
+    "amount": 12.95,
+    "earned": null,
+    "date": "2026-04-11",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-249",
+    "title": "Airbnb",
+    "amount": 37.43,
+    "earned": null,
+    "date": "2026-04-11",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-244",
+    "title": "Dinner out",
+    "amount": 3.94,
+    "earned": null,
+    "date": "2026-04-10",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-245",
+    "title": "Smoothie",
+    "amount": 16.1,
+    "earned": null,
+    "date": "2026-04-10",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-246",
+    "title": "Ferry",
+    "amount": 29.78,
+    "earned": null,
+    "date": "2026-04-10",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-247",
+    "title": "Airbnb",
+    "amount": 16.39,
+    "earned": null,
+    "date": "2026-04-10",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-242",
+    "title": "Tacos",
+    "amount": 15.03,
+    "earned": null,
+    "date": "2026-04-09",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-243",
+    "title": "Museum",
+    "amount": 65.51,
+    "earned": null,
+    "date": "2026-04-09",
+    "category": "Activities",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-239",
+    "title": "Dinner out",
+    "amount": 19.78,
+    "earned": null,
+    "date": "2026-04-08",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-240",
+    "title": "Hostel",
+    "amount": 17.41,
+    "earned": null,
+    "date": "2026-04-08",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-241",
+    "title": "Surf lesson",
+    "amount": 67.33,
+    "earned": null,
+    "date": "2026-04-08",
+    "category": "Activities",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-236",
+    "title": "Tacos",
+    "amount": 23.32,
+    "earned": null,
+    "date": "2026-04-07",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-237",
+    "title": "Dinner out",
+    "amount": 6.63,
+    "earned": null,
+    "date": "2026-04-07",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-238",
+    "title": "Shuttle",
+    "amount": 25.47,
+    "earned": null,
+    "date": "2026-04-07",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-233",
+    "title": "Street food",
+    "amount": 9.64,
+    "earned": null,
+    "date": "2026-04-06",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-234",
+    "title": "Guesthouse",
+    "amount": 17.73,
+    "earned": null,
+    "date": "2026-04-06",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-235",
+    "title": "Museum",
+    "amount": 62.73,
+    "earned": null,
+    "date": "2026-04-06",
+    "category": "Activities",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-231",
+    "title": "Coffee",
+    "amount": 9.43,
+    "earned": null,
+    "date": "2026-04-05",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-232",
+    "title": "Hostel",
+    "amount": 14.42,
+    "earned": null,
+    "date": "2026-04-05",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-228",
+    "title": "Dinner out",
+    "amount": 21.66,
+    "earned": null,
+    "date": "2026-04-04",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-229",
+    "title": "Ferry",
+    "amount": 31.59,
+    "earned": null,
+    "date": "2026-04-04",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-230",
+    "title": "Museum",
+    "amount": 69.06,
+    "earned": null,
+    "date": "2026-04-04",
+    "category": "Activities",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-226",
+    "title": "Coffee",
+    "amount": 18.51,
+    "earned": null,
+    "date": "2026-04-03",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-227",
+    "title": "Airbnb",
+    "amount": 12.54,
+    "earned": null,
+    "date": "2026-04-03",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-225",
+    "title": "Dinner out",
+    "amount": 10.58,
+    "earned": null,
+    "date": "2026-04-02",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-223",
+    "title": "Groceries",
+    "amount": 8.79,
+    "earned": null,
+    "date": "2026-04-01",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-224",
+    "title": "Ferry",
+    "amount": 12.94,
+    "earned": null,
+    "date": "2026-04-01",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-221",
+    "title": "Street food",
+    "amount": 12.02,
+    "earned": null,
+    "date": "2026-03-31",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-222",
+    "title": "Airbnb",
+    "amount": 15.44,
+    "earned": null,
+    "date": "2026-03-31",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-279",
+    "title": "Freelance invoice",
+    "amount": null,
+    "earned": 1900,
+    "date": "2026-03-31",
+    "category": "Income",
+    "location": "Remote",
+    "notes": ""
+  },
+  {
+    "id": "sample-218",
+    "title": "Coffee",
+    "amount": 7.94,
+    "earned": null,
+    "date": "2026-03-30",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-219",
+    "title": "Ferry",
+    "amount": 14.7,
+    "earned": null,
+    "date": "2026-03-30",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-220",
+    "title": "Airbnb",
+    "amount": 23.49,
+    "earned": null,
+    "date": "2026-03-30",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-215",
+    "title": "Smoothie",
+    "amount": 2.99,
+    "earned": null,
+    "date": "2026-03-29",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-216",
+    "title": "Airbnb",
+    "amount": 11.58,
+    "earned": null,
+    "date": "2026-03-29",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-217",
+    "title": "Pharmacy",
+    "amount": 8.88,
+    "earned": null,
+    "date": "2026-03-29",
+    "category": "Shopping",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-212",
+    "title": "Tacos",
+    "amount": 6.12,
+    "earned": null,
+    "date": "2026-03-28",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-213",
+    "title": "Ferry",
+    "amount": 35.86,
+    "earned": null,
+    "date": "2026-03-28",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-214",
+    "title": "Airbnb",
+    "amount": 24.96,
+    "earned": null,
+    "date": "2026-03-28",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-210",
+    "title": "Tacos",
+    "amount": 5.25,
+    "earned": null,
+    "date": "2026-03-27",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-211",
+    "title": "Guesthouse",
+    "amount": 30.33,
+    "earned": null,
+    "date": "2026-03-27",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-206",
+    "title": "Street food",
+    "amount": 5.16,
+    "earned": null,
+    "date": "2026-03-26",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-207",
+    "title": "Coffee",
+    "amount": 14.42,
+    "earned": null,
+    "date": "2026-03-26",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-208",
+    "title": "Taxi",
+    "amount": 15.78,
+    "earned": null,
+    "date": "2026-03-26",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-209",
+    "title": "Guesthouse",
+    "amount": 31.06,
+    "earned": null,
+    "date": "2026-03-26",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-203",
+    "title": "Coffee",
+    "amount": 17.54,
+    "earned": null,
+    "date": "2026-03-25",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-204",
+    "title": "Bus ticket",
+    "amount": 30.5,
+    "earned": null,
+    "date": "2026-03-25",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-205",
+    "title": "Dive trip",
+    "amount": 67.6,
+    "earned": null,
+    "date": "2026-03-25",
+    "category": "Activities",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-200",
+    "title": "Smoothie",
+    "amount": 19.63,
+    "earned": null,
+    "date": "2026-03-24",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-201",
+    "title": "Shuttle",
+    "amount": 6.93,
+    "earned": null,
+    "date": "2026-03-24",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-202",
+    "title": "Airbnb",
+    "amount": 30.23,
+    "earned": null,
+    "date": "2026-03-24",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-198",
+    "title": "Smoothie",
+    "amount": 21.38,
+    "earned": null,
+    "date": "2026-03-23",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-199",
+    "title": "Guesthouse",
+    "amount": 42.3,
+    "earned": null,
+    "date": "2026-03-23",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-196",
+    "title": "Street food",
+    "amount": 9.35,
+    "earned": null,
+    "date": "2026-03-22",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-197",
+    "title": "Hostel",
+    "amount": 14.5,
+    "earned": null,
+    "date": "2026-03-22",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-194",
+    "title": "Groceries",
+    "amount": 5.13,
+    "earned": null,
+    "date": "2026-03-21",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-195",
+    "title": "Museum",
+    "amount": 59.61,
+    "earned": null,
+    "date": "2026-03-21",
+    "category": "Activities",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-192",
+    "title": "Coffee",
+    "amount": 12.89,
+    "earned": null,
+    "date": "2026-03-20",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-193",
+    "title": "Guesthouse",
+    "amount": 18.41,
+    "earned": null,
+    "date": "2026-03-20",
+    "category": "Lodging",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-190",
+    "title": "Coffee",
+    "amount": 19.54,
+    "earned": null,
+    "date": "2026-03-19",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-191",
+    "title": "Tacos",
+    "amount": 23.33,
+    "earned": null,
+    "date": "2026-03-19",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-188",
+    "title": "Groceries",
+    "amount": 5.46,
+    "earned": null,
+    "date": "2026-03-18",
+    "category": "Food & Drink",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-189",
+    "title": "Taxi",
+    "amount": 30.8,
+    "earned": null,
+    "date": "2026-03-18",
+    "category": "Transport",
+    "location": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": "sample-185",
+    "title": "Smoothie",
+    "amount": 29.69,
+    "earned": null,
+    "date": "2026-03-17",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-186",
+    "title": "Groceries",
+    "amount": 6.28,
+    "earned": null,
+    "date": "2026-03-17",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-187",
+    "title": "Sunscreen",
+    "amount": 35.34,
+    "earned": null,
+    "date": "2026-03-17",
+    "category": "Shopping",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-181",
+    "title": "Smoothie",
+    "amount": 13.44,
+    "earned": null,
+    "date": "2026-03-16",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-182",
+    "title": "Smoothie",
+    "amount": 22.47,
+    "earned": null,
+    "date": "2026-03-16",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-183",
+    "title": "Taxi",
+    "amount": 9.53,
+    "earned": null,
+    "date": "2026-03-16",
+    "category": "Transport",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-184",
+    "title": "Airbnb",
+    "amount": 24.45,
+    "earned": null,
+    "date": "2026-03-16",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-177",
+    "title": "Smoothie",
+    "amount": 13.64,
+    "earned": null,
+    "date": "2026-03-15",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-178",
+    "title": "Tacos",
+    "amount": 35.93,
+    "earned": null,
+    "date": "2026-03-15",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-179",
+    "title": "Ferry",
+    "amount": 10.36,
+    "earned": null,
+    "date": "2026-03-15",
+    "category": "Transport",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-180",
+    "title": "Surf lesson",
+    "amount": 37.12,
+    "earned": null,
+    "date": "2026-03-15",
+    "category": "Activities",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-278",
+    "title": "Photo print sale",
+    "amount": null,
+    "earned": 240,
+    "date": "2026-03-15",
+    "category": "Income",
+    "location": "Remote",
+    "notes": ""
+  },
+  {
+    "id": "sample-174",
+    "title": "Dinner out",
+    "amount": 14.33,
+    "earned": null,
+    "date": "2026-03-14",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-175",
+    "title": "Guesthouse",
+    "amount": 63.34,
+    "earned": null,
+    "date": "2026-03-14",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-176",
+    "title": "Pharmacy",
+    "amount": 7.39,
+    "earned": null,
+    "date": "2026-03-14",
+    "category": "Shopping",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-170",
+    "title": "Smoothie",
+    "amount": 34.86,
+    "earned": null,
+    "date": "2026-03-13",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-171",
+    "title": "Smoothie",
+    "amount": 16.85,
+    "earned": null,
+    "date": "2026-03-13",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-172",
+    "title": "Hostel",
+    "amount": 31.94,
+    "earned": null,
+    "date": "2026-03-13",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-173",
+    "title": "Market souvenir",
+    "amount": 10.99,
+    "earned": null,
+    "date": "2026-03-13",
+    "category": "Shopping",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-167",
+    "title": "Groceries",
+    "amount": 29.43,
+    "earned": null,
+    "date": "2026-03-12",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-168",
+    "title": "Scooter rental",
+    "amount": 25.16,
+    "earned": null,
+    "date": "2026-03-12",
+    "category": "Transport",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-169",
+    "title": "Hostel",
+    "amount": 64.34,
+    "earned": null,
+    "date": "2026-03-12",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-164",
+    "title": "Groceries",
+    "amount": 18.41,
+    "earned": null,
+    "date": "2026-03-11",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-165",
+    "title": "Bus ticket",
+    "amount": 53.21,
+    "earned": null,
+    "date": "2026-03-11",
+    "category": "Transport",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-166",
+    "title": "Hostel",
+    "amount": 58.44,
+    "earned": null,
+    "date": "2026-03-11",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-163",
+    "title": "Tacos",
+    "amount": 28.13,
+    "earned": null,
+    "date": "2026-03-10",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-160",
+    "title": "Smoothie",
+    "amount": 13.25,
+    "earned": null,
+    "date": "2026-03-09",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-161",
+    "title": "Groceries",
+    "amount": 33,
+    "earned": null,
+    "date": "2026-03-09",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-162",
+    "title": "Shuttle",
+    "amount": 2.8,
+    "earned": null,
+    "date": "2026-03-09",
+    "category": "Transport",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-157",
+    "title": "Dinner out",
+    "amount": 5.27,
+    "earned": null,
+    "date": "2026-03-08",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-158",
+    "title": "Smoothie",
+    "amount": 26.63,
+    "earned": null,
+    "date": "2026-03-08",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-159",
+    "title": "Scooter rental",
+    "amount": 54.16,
+    "earned": null,
+    "date": "2026-03-08",
+    "category": "Transport",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-155",
+    "title": "Coffee",
+    "amount": 6.27,
+    "earned": null,
+    "date": "2026-03-07",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-156",
+    "title": "Bus ticket",
+    "amount": 23.58,
+    "earned": null,
+    "date": "2026-03-07",
+    "category": "Transport",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-153",
+    "title": "Street food",
+    "amount": 33.8,
+    "earned": null,
+    "date": "2026-03-06",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-154",
+    "title": "Scooter rental",
+    "amount": 4.82,
+    "earned": null,
+    "date": "2026-03-06",
+    "category": "Transport",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-151",
+    "title": "Dinner out",
+    "amount": 35.16,
+    "earned": null,
+    "date": "2026-03-05",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-152",
+    "title": "Guesthouse",
+    "amount": 24.91,
+    "earned": null,
+    "date": "2026-03-05",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-148",
+    "title": "Coffee",
+    "amount": 28.11,
+    "earned": null,
+    "date": "2026-03-04",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-149",
+    "title": "Groceries",
+    "amount": 18.72,
+    "earned": null,
+    "date": "2026-03-04",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-150",
+    "title": "Guesthouse",
+    "amount": 50.04,
+    "earned": null,
+    "date": "2026-03-04",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-146",
+    "title": "Dinner out",
+    "amount": 35.4,
+    "earned": null,
+    "date": "2026-03-03",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-147",
+    "title": "Guesthouse",
+    "amount": 33.54,
+    "earned": null,
+    "date": "2026-03-03",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-142",
+    "title": "Groceries",
+    "amount": 5.82,
+    "earned": null,
+    "date": "2026-03-02",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-143",
+    "title": "Coffee",
+    "amount": 14.63,
+    "earned": null,
+    "date": "2026-03-02",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-144",
+    "title": "Scooter rental",
+    "amount": 30.88,
+    "earned": null,
+    "date": "2026-03-02",
+    "category": "Transport",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-145",
+    "title": "Airbnb",
+    "amount": 67.46,
+    "earned": null,
+    "date": "2026-03-02",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-139",
+    "title": "Street food",
+    "amount": 17.66,
+    "earned": null,
+    "date": "2026-03-01",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-140",
+    "title": "Smoothie",
+    "amount": 33.97,
+    "earned": null,
+    "date": "2026-03-01",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-141",
+    "title": "Hostel",
+    "amount": 25.11,
+    "earned": null,
+    "date": "2026-03-01",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-137",
+    "title": "Dinner out",
+    "amount": 19.77,
+    "earned": null,
+    "date": "2026-02-28",
+    "category": "Food & Drink",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-138",
+    "title": "Guesthouse",
+    "amount": 56.88,
+    "earned": null,
+    "date": "2026-02-28",
+    "category": "Lodging",
+    "location": "Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": "sample-277",
+    "title": "Freelance invoice",
+    "amount": null,
+    "earned": 1600,
+    "date": "2026-02-28",
+    "category": "Income",
+    "location": "Remote",
+    "notes": ""
+  },
+  {
+    "id": "sample-132",
+    "title": "Dinner out",
+    "amount": 6.72,
+    "earned": null,
+    "date": "2026-02-27",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-133",
+    "title": "Groceries",
+    "amount": 19.44,
+    "earned": null,
+    "date": "2026-02-27",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-134",
+    "title": "Taxi",
+    "amount": 20.07,
+    "earned": null,
+    "date": "2026-02-27",
+    "category": "Transport",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-135",
+    "title": "Guesthouse",
+    "amount": 33.75,
+    "earned": null,
+    "date": "2026-02-27",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-136",
+    "title": "Volcano hike",
+    "amount": 15.29,
+    "earned": null,
+    "date": "2026-02-27",
+    "category": "Activities",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-131",
+    "title": "Dinner out",
+    "amount": 7.85,
+    "earned": null,
+    "date": "2026-02-26",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-128",
+    "title": "Dinner out",
+    "amount": 15.15,
+    "earned": null,
+    "date": "2026-02-25",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-129",
+    "title": "Tacos",
+    "amount": 13.35,
+    "earned": null,
+    "date": "2026-02-25",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-130",
+    "title": "Airbnb",
+    "amount": 22.14,
+    "earned": null,
+    "date": "2026-02-25",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-126",
+    "title": "Street food",
+    "amount": 17.64,
+    "earned": null,
+    "date": "2026-02-24",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-127",
+    "title": "Guesthouse",
+    "amount": 11.71,
+    "earned": null,
+    "date": "2026-02-24",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-125",
+    "title": "Tacos",
+    "amount": 7.88,
+    "earned": null,
+    "date": "2026-02-23",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-122",
+    "title": "Smoothie",
+    "amount": 6.42,
+    "earned": null,
+    "date": "2026-02-22",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-123",
+    "title": "Airbnb",
+    "amount": 15.23,
+    "earned": null,
+    "date": "2026-02-22",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-124",
+    "title": "Spanish class",
+    "amount": 32.79,
+    "earned": null,
+    "date": "2026-02-22",
+    "category": "Activities",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-119",
+    "title": "Coffee",
+    "amount": 15.25,
+    "earned": null,
+    "date": "2026-02-21",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-120",
+    "title": "Guesthouse",
+    "amount": 35.88,
+    "earned": null,
+    "date": "2026-02-21",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-121",
+    "title": "Spanish class",
+    "amount": 13.33,
+    "earned": null,
+    "date": "2026-02-21",
+    "category": "Activities",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-116",
+    "title": "Coffee",
+    "amount": 10.87,
+    "earned": null,
+    "date": "2026-02-20",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-117",
+    "title": "Taxi",
+    "amount": 20.44,
+    "earned": null,
+    "date": "2026-02-20",
+    "category": "Transport",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-118",
+    "title": "Spanish class",
+    "amount": 56.87,
+    "earned": null,
+    "date": "2026-02-20",
+    "category": "Activities",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-114",
+    "title": "Coffee",
+    "amount": 8.11,
+    "earned": null,
+    "date": "2026-02-19",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-115",
+    "title": "Taxi",
+    "amount": 17.97,
+    "earned": null,
+    "date": "2026-02-19",
+    "category": "Transport",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-113",
+    "title": "Dinner out",
+    "amount": 8.08,
+    "earned": null,
+    "date": "2026-02-18",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-111",
+    "title": "Tacos",
+    "amount": 10.5,
+    "earned": null,
+    "date": "2026-02-17",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-112",
+    "title": "Smoothie",
+    "amount": 17.53,
+    "earned": null,
+    "date": "2026-02-17",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-108",
+    "title": "Street food",
+    "amount": 4.34,
+    "earned": null,
+    "date": "2026-02-16",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-109",
+    "title": "Street food",
+    "amount": 13.19,
+    "earned": null,
+    "date": "2026-02-16",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-110",
+    "title": "Hostel",
+    "amount": 26.81,
+    "earned": null,
+    "date": "2026-02-16",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-105",
+    "title": "Tacos",
+    "amount": 11.86,
+    "earned": null,
+    "date": "2026-02-15",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-106",
+    "title": "Street food",
+    "amount": 8.08,
+    "earned": null,
+    "date": "2026-02-15",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-107",
+    "title": "Scooter rental",
+    "amount": 3.39,
+    "earned": null,
+    "date": "2026-02-15",
+    "category": "Transport",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-102",
+    "title": "Dinner out",
+    "amount": 4.35,
+    "earned": null,
+    "date": "2026-02-14",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-103",
+    "title": "Smoothie",
+    "amount": 14.77,
+    "earned": null,
+    "date": "2026-02-14",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-104",
+    "title": "Hostel",
+    "amount": 10.05,
+    "earned": null,
+    "date": "2026-02-14",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-99",
+    "title": "Smoothie",
+    "amount": 4.37,
+    "earned": null,
+    "date": "2026-02-13",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-100",
+    "title": "Coffee",
+    "amount": 10.67,
+    "earned": null,
+    "date": "2026-02-13",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-101",
+    "title": "Scooter rental",
+    "amount": 10.45,
+    "earned": null,
+    "date": "2026-02-13",
+    "category": "Transport",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-96",
+    "title": "Smoothie",
+    "amount": 15.86,
+    "earned": null,
+    "date": "2026-02-12",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-97",
+    "title": "Groceries",
+    "amount": 13.63,
+    "earned": null,
+    "date": "2026-02-12",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-98",
+    "title": "Bus ticket",
+    "amount": 2.73,
+    "earned": null,
+    "date": "2026-02-12",
+    "category": "Transport",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-94",
+    "title": "Coffee",
+    "amount": 8.81,
+    "earned": null,
+    "date": "2026-02-11",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-95",
+    "title": "Airbnb",
+    "amount": 14.79,
+    "earned": null,
+    "date": "2026-02-11",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-91",
+    "title": "Tacos",
+    "amount": 15.03,
+    "earned": null,
+    "date": "2026-02-10",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-92",
+    "title": "Groceries",
+    "amount": 16.09,
+    "earned": null,
+    "date": "2026-02-10",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-93",
+    "title": "Sunscreen",
+    "amount": 14.87,
+    "earned": null,
+    "date": "2026-02-10",
+    "category": "Shopping",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-89",
+    "title": "Dinner out",
+    "amount": 9.14,
+    "earned": null,
+    "date": "2026-02-09",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-90",
+    "title": "Coffee",
+    "amount": 17.63,
+    "earned": null,
+    "date": "2026-02-09",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-86",
+    "title": "Groceries",
+    "amount": 11.67,
+    "earned": null,
+    "date": "2026-02-08",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-87",
+    "title": "Scooter rental",
+    "amount": 11.75,
+    "earned": null,
+    "date": "2026-02-08",
+    "category": "Transport",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-88",
+    "title": "Airbnb",
+    "amount": 32.39,
+    "earned": null,
+    "date": "2026-02-08",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-84",
+    "title": "Smoothie",
+    "amount": 9.37,
+    "earned": null,
+    "date": "2026-02-07",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-85",
+    "title": "Dinner out",
+    "amount": 19.52,
+    "earned": null,
+    "date": "2026-02-07",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-82",
+    "title": "Coffee",
+    "amount": 11.62,
+    "earned": null,
+    "date": "2026-02-06",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-83",
+    "title": "Guesthouse",
+    "amount": 13.17,
+    "earned": null,
+    "date": "2026-02-06",
+    "category": "Lodging",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-79",
+    "title": "Tacos",
+    "amount": 8.69,
+    "earned": null,
+    "date": "2026-02-05",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-80",
+    "title": "Street food",
+    "amount": 6.87,
+    "earned": null,
+    "date": "2026-02-05",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-81",
+    "title": "Bus ticket",
+    "amount": 2.5,
+    "earned": null,
+    "date": "2026-02-05",
+    "category": "Transport",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-76",
+    "title": "Groceries",
+    "amount": 15.55,
+    "earned": null,
+    "date": "2026-02-04",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-77",
+    "title": "Street food",
+    "amount": 3.67,
+    "earned": null,
+    "date": "2026-02-04",
+    "category": "Food & Drink",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-78",
+    "title": "Shuttle",
+    "amount": 27.62,
+    "earned": null,
+    "date": "2026-02-04",
+    "category": "Transport",
+    "location": "Guatemala",
+    "notes": ""
+  },
+  {
+    "id": "sample-75",
+    "title": "Street food",
+    "amount": 9.78,
+    "earned": null,
+    "date": "2026-02-03",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-74",
+    "title": "Groceries",
+    "amount": 4.55,
+    "earned": null,
+    "date": "2026-02-02",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-71",
+    "title": "Tacos",
+    "amount": 23.53,
+    "earned": null,
+    "date": "2026-02-01",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-72",
+    "title": "Taxi",
+    "amount": 33.69,
+    "earned": null,
+    "date": "2026-02-01",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-73",
+    "title": "Guesthouse",
+    "amount": 54.21,
+    "earned": null,
+    "date": "2026-02-01",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-69",
+    "title": "Coffee",
+    "amount": 25.34,
+    "earned": null,
+    "date": "2026-01-31",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-70",
+    "title": "Shuttle",
+    "amount": 5.93,
+    "earned": null,
+    "date": "2026-01-31",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-276",
+    "title": "Freelance invoice",
+    "amount": null,
+    "earned": 1850,
+    "date": "2026-01-31",
+    "category": "Income",
+    "location": "Remote",
+    "notes": ""
+  },
+  {
+    "id": "sample-66",
+    "title": "Smoothie",
+    "amount": 22.08,
+    "earned": null,
+    "date": "2026-01-30",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-67",
+    "title": "Tacos",
+    "amount": 24.57,
+    "earned": null,
+    "date": "2026-01-30",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-68",
+    "title": "Taxi",
+    "amount": 16.13,
+    "earned": null,
+    "date": "2026-01-30",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-62",
+    "title": "Dinner out",
+    "amount": 27.51,
+    "earned": null,
+    "date": "2026-01-29",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-63",
+    "title": "Coffee",
+    "amount": 13.85,
+    "earned": null,
+    "date": "2026-01-29",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-64",
+    "title": "Bus ticket",
+    "amount": 38.16,
+    "earned": null,
+    "date": "2026-01-29",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-65",
+    "title": "Guesthouse",
+    "amount": 37.49,
+    "earned": null,
+    "date": "2026-01-29",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-59",
+    "title": "Groceries",
+    "amount": 15.49,
+    "earned": null,
+    "date": "2026-01-28",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-60",
+    "title": "Hostel",
+    "amount": 30.22,
+    "earned": null,
+    "date": "2026-01-28",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-61",
+    "title": "Spanish class",
+    "amount": 64.81,
+    "earned": null,
+    "date": "2026-01-28",
+    "category": "Activities",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-58",
+    "title": "Smoothie",
+    "amount": 18.54,
+    "earned": null,
+    "date": "2026-01-27",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-57",
+    "title": "Tacos",
+    "amount": 8.6,
+    "earned": null,
+    "date": "2026-01-26",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-54",
+    "title": "Smoothie",
+    "amount": 19.77,
+    "earned": null,
+    "date": "2026-01-25",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-55",
+    "title": "Street food",
+    "amount": 5.97,
+    "earned": null,
+    "date": "2026-01-25",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-56",
+    "title": "Sunscreen",
+    "amount": 29.31,
+    "earned": null,
+    "date": "2026-01-25",
+    "category": "Shopping",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-51",
+    "title": "Dinner out",
+    "amount": 25.02,
+    "earned": null,
+    "date": "2026-01-24",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-52",
+    "title": "Ferry",
+    "amount": 24.21,
+    "earned": null,
+    "date": "2026-01-24",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-53",
+    "title": "Museum",
+    "amount": 14.2,
+    "earned": null,
+    "date": "2026-01-24",
+    "category": "Activities",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-49",
+    "title": "Dinner out",
+    "amount": 13.66,
+    "earned": null,
+    "date": "2026-01-23",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-50",
+    "title": "Coffee",
+    "amount": 21.26,
+    "earned": null,
+    "date": "2026-01-23",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-46",
+    "title": "Dinner out",
+    "amount": 17.74,
+    "earned": null,
+    "date": "2026-01-22",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-47",
+    "title": "Bus ticket",
+    "amount": 12.04,
+    "earned": null,
+    "date": "2026-01-22",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-48",
+    "title": "Guesthouse",
+    "amount": 30.98,
+    "earned": null,
+    "date": "2026-01-22",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-44",
+    "title": "Smoothie",
+    "amount": 19.71,
+    "earned": null,
+    "date": "2026-01-21",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-45",
+    "title": "Airbnb",
+    "amount": 24.03,
+    "earned": null,
+    "date": "2026-01-21",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-41",
+    "title": "Street food",
+    "amount": 17.27,
+    "earned": null,
+    "date": "2026-01-20",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-42",
+    "title": "Tacos",
+    "amount": 13.19,
+    "earned": null,
+    "date": "2026-01-20",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-43",
+    "title": "Hostel",
+    "amount": 16.64,
+    "earned": null,
+    "date": "2026-01-20",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-38",
+    "title": "Smoothie",
+    "amount": 18.53,
+    "earned": null,
+    "date": "2026-01-19",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-39",
+    "title": "Guesthouse",
+    "amount": 38.48,
+    "earned": null,
+    "date": "2026-01-19",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-40",
+    "title": "Streaming",
+    "amount": 11.72,
+    "earned": null,
+    "date": "2026-01-19",
+    "category": "Subscriptions",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-36",
+    "title": "Groceries",
+    "amount": 21.03,
+    "earned": null,
+    "date": "2026-01-18",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-37",
+    "title": "Airbnb",
+    "amount": 43.45,
+    "earned": null,
+    "date": "2026-01-18",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-33",
+    "title": "Dinner out",
+    "amount": 4.24,
+    "earned": null,
+    "date": "2026-01-17",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-34",
+    "title": "Ferry",
+    "amount": 34.95,
+    "earned": null,
+    "date": "2026-01-17",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-35",
+    "title": "Museum",
+    "amount": 34.26,
+    "earned": null,
+    "date": "2026-01-17",
+    "category": "Activities",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-30",
+    "title": "Street food",
+    "amount": 26.12,
+    "earned": null,
+    "date": "2026-01-16",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-31",
+    "title": "Taxi",
+    "amount": 25.27,
+    "earned": null,
+    "date": "2026-01-16",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-32",
+    "title": "Airbnb",
+    "amount": 54.14,
+    "earned": null,
+    "date": "2026-01-16",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-28",
+    "title": "Dinner out",
+    "amount": 16.82,
+    "earned": null,
+    "date": "2026-01-15",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-29",
+    "title": "Guesthouse",
+    "amount": 29.99,
+    "earned": null,
+    "date": "2026-01-15",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-24",
+    "title": "Coffee",
+    "amount": 24.02,
+    "earned": null,
+    "date": "2026-01-14",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-25",
+    "title": "Smoothie",
+    "amount": 7.94,
+    "earned": null,
+    "date": "2026-01-14",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-26",
+    "title": "Ferry",
+    "amount": 13.36,
+    "earned": null,
+    "date": "2026-01-14",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-27",
+    "title": "Hostel",
+    "amount": 39.86,
+    "earned": null,
+    "date": "2026-01-14",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-22",
+    "title": "Dinner out",
+    "amount": 13.76,
+    "earned": null,
+    "date": "2026-01-13",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-23",
+    "title": "Bus ticket",
+    "amount": 37.51,
+    "earned": null,
+    "date": "2026-01-13",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-19",
+    "title": "Dinner out",
+    "amount": 25.05,
+    "earned": null,
+    "date": "2026-01-12",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-20",
+    "title": "Dinner out",
+    "amount": 20.43,
+    "earned": null,
+    "date": "2026-01-12",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-21",
+    "title": "Hostel",
+    "amount": 17.43,
+    "earned": null,
+    "date": "2026-01-12",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-17",
+    "title": "Groceries",
+    "amount": 5.96,
+    "earned": null,
+    "date": "2026-01-11",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-18",
+    "title": "Hostel",
+    "amount": 37.98,
+    "earned": null,
+    "date": "2026-01-11",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-12",
+    "title": "Groceries",
+    "amount": 11.35,
+    "earned": null,
+    "date": "2026-01-10",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-13",
+    "title": "Smoothie",
+    "amount": 26.9,
+    "earned": null,
+    "date": "2026-01-10",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-14",
+    "title": "Scooter rental",
+    "amount": 27.04,
+    "earned": null,
+    "date": "2026-01-10",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-15",
+    "title": "Hostel",
+    "amount": 17.56,
+    "earned": null,
+    "date": "2026-01-10",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-16",
+    "title": "Pharmacy",
+    "amount": 28.98,
+    "earned": null,
+    "date": "2026-01-10",
+    "category": "Shopping",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-10",
+    "title": "Groceries",
+    "amount": 14.18,
+    "earned": null,
+    "date": "2026-01-09",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-11",
+    "title": "Tacos",
+    "amount": 22.22,
+    "earned": null,
+    "date": "2026-01-09",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-9",
+    "title": "Coffee",
+    "amount": 17.64,
+    "earned": null,
+    "date": "2026-01-08",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-6",
+    "title": "Groceries",
+    "amount": 26.58,
+    "earned": null,
+    "date": "2026-01-07",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-7",
+    "title": "Airbnb",
+    "amount": 32.08,
+    "earned": null,
+    "date": "2026-01-07",
+    "category": "Lodging",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-8",
+    "title": "Surf lesson",
+    "amount": 52.98,
+    "earned": null,
+    "date": "2026-01-07",
+    "category": "Activities",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-4",
+    "title": "Smoothie",
+    "amount": 17.91,
+    "earned": null,
+    "date": "2026-01-06",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-5",
+    "title": "Bus ticket",
+    "amount": 42.85,
+    "earned": null,
+    "date": "2026-01-06",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-1",
+    "title": "Tacos",
+    "amount": 17.43,
+    "earned": null,
+    "date": "2026-01-05",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-2",
+    "title": "Groceries",
+    "amount": 12.39,
+    "earned": null,
+    "date": "2026-01-05",
+    "category": "Food & Drink",
+    "location": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": "sample-3",
+    "title": "Ferry",
+    "amount": 7.09,
+    "earned": null,
+    "date": "2026-01-05",
+    "category": "Transport",
+    "location": "Mexico",
+    "notes": ""
+  }
+]
